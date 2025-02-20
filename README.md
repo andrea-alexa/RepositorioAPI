@@ -27,11 +27,11 @@ Aplicar migraciones:
 En la consola colocamos Add-Migration InitDb y luego update-Database
 
 Ejecutar:
-GET /api/productos -> Obtener todos los productos
-GET /api/productos/{id} -> Obtener un producto por ID
-POST /api/productos ->  Agregar un nuevo producto
-PUT /api/productos/{id} -> Actualizar un producto
-DELETE /api/productos/{id} -> Eliminar un producto
+1- GET /api/productos -> Obtener todos los productos
+2- GET /api/productos/{id} -> Obtener un producto por ID
+3- POST /api/productos ->  Agregar un nuevo producto
+4- PUT /api/productos/{id} -> Actualizar un producto
+5- DELETE /api/productos/{id} -> Eliminar un producto
 
 Funcionamiento:
 https://docs.google.com/document/d/1SteUK10VZ82TYf7gNWcdPmoY-apsnlbi4B2xzLHYyCo/edit?usp=sharing
