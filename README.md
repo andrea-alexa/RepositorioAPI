@@ -1,11 +1,11 @@
 # ApiBackend
 
-Entorno de desarrollo:
+- Entorno de desarrollo:
 Visual Studio 2022 o superior
 .NET 8 o superior
 SQL Server
 
-Especificaciones de la API:
+- Especificaciones de la API:
 La API debe manejar una entidad llamada Producto con los siguientes campos:
 Id (int, clave primaria, autoincremental)
 Nombre (string, obligatorio, máximo 100 caracteres)
